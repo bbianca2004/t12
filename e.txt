@@ -1,0 +1,20 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9A2F-D3B2
+
+ Directory of C:\repos\test12
+
+14/02/2024  21:03    <DIR>          .
+03/02/2024  14:23    <DIR>          ..
+03/02/2024  14:23               344 .gitignore
+09/02/2024  18:10    <DIR>          .idea
+09/02/2024  17:58                16 abc.txt
+14/02/2024  20:40                 4 bcd.txt
+14/02/2024  21:02                 6 d.txt
+14/02/2024  21:03                 0 e.txt
+14/02/2024  20:22                67 fisier.txt
+22/12/2023  01:57             3,885 HELP.txt
+03/02/2024  14:27    <DIR>          out
+14/02/2024  20:40    <DIR>          src
+03/02/2024  14:23               433 test12.iml
+               8 File(s)          4,755 bytes
+               5 Dir(s)  856,648,556,544 bytes free

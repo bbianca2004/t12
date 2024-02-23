@@ -1,0 +1,65 @@
+Group #127 group
+Drive: https://drive.switch.ch/index.php/s/ksuukEvVllN6RUd
+mdp: QDhy?b:;P8xL
+
+
+#Description of the ICMonGame
+
+ Embark on the exciting journey of ICMon, a Pokémon-inspired mini-game! This game consists creating a playable instance, guiding your actor through a room to collect essential balls using the interaction management mechanism. As a first scenario, YOU, the player are spawned in the wonderfull ICMon world.
+ You can start in force and follow the main narative path OR you can take your time to explore the town by following your tour guides: Alex Iorga(be quick, he's really fast !!)and Rdau Lecoiu. But be careful of the moving balls while exploring the world (they sting a bit) as you should save your hp for the battle!! 
+ If you feel up to the task, start right away by collecting pokemons and engaging in combat and expand your inventory. Explore the various beautiful scenerys, interact with other trainers and defeat your Gary!!!
+
+#Solution if the ICMonGame
+
+Battle with your pokemons and increase your inventory. When you have acquired experience, you can go on to defeat Gary.
+
+*Controls*
+Directional Arrows: move
+I: opens pokemon inventory
+Enter: chooses the pokemon in a selection menu
+F: displays fight actions of the selected pokemon
+Space: skips dialog
+L: interacts/collect
+R: resets the game
+
+## How to battle Gary
+
+Garry is located in the house where the spawning point is. By collecting the key inside the house, you can open the door leading to the town. At first you can not even interact with him, as he thinks little of you. You have to acquire pokemons by training in the arena or beating other pokemon trainers to be able to battle him.
+
+# Begining
+
+ Take a tour around the town with Alex Iorga(you have to interact with him as soon as you are out of the house), he will show you around the buildings and also the way to the next area.
+
+ To receive your first PokeBall you must:
+ - speak with the shop assistant(she will send you to doctor Oak)
+ - engage with doctor Oak and he will tell you to find your first Poke Ball
+
+## Moving Balls 
+
+ While walking around be careful to not into the moving balls, they will drain your hp!!
+
+## Enter the Arena and battle other pokemons
+
+ Now that you have a pokemon, you are ready to fight in the arena. Choose one of the opponents as well as your own fighter and win battles.  From here on, you can go on to explore the wonderful pokemon world and gather as many pokemons as you can on the way.
+
+# Following Radu Lecoiu around the Portul Vesel
+
+ As soon as you arrive in the Portul Vesel you will be welcomed by Radu Lecoiu and by interacting with him, he will show you the way to the next pokemon opponent, the “foca”. After defeating the “foca”, you have to go upwards and exit 	
+
+## Pass by the pokemons 
+
+ While on your journey, you will find pokemons spred around ready to engage in a fight. Battle them to pass by and continue your adventure. From here on, you can go on to explore the wonderful pokemon world and gather as many pokemons as you can through the many areas: the Portul Vesel, Padurea Vesela, the Lazy Town and the trainer areas.
+
+# Battle Gary's Helpers
+
+ You will also encounter other pokemon trainers before meeting Gary and you will be able to engage with them in fights, as well as collect their pokemons. There are exactly two of Gary's Helpers, the first one in Lazy Town, blocking your access to Trainer. In Trainer Lab, you will find the second of Gary's helpers and by defeating him you can obtain the Pikachu pokemon which will aid you in defeating Gary.
+
+## End of Game
+
+After beating the last of Gary's Helpers, you can go past him and go through the area labyrinth back to the town where you will have to defeat Gary. As soon as you defeat him, you will receive the game ending message. 
+
+
+
+
+
+
